@@ -1,7 +1,7 @@
 # Coursera-Getting-Cleaning-Data-project
 This repo will store all documents associated with coursera week 3 project: Getting and Cleaning Data
 
-Below is the assignment:
+## Below is the assignment:
 You should create one R script called run_analysis.R that does the following. 
 1.Merges the training and the test sets to create one data set.
 2.Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -10,7 +10,7 @@ You should create one R script called run_analysis.R that does the following.
 
 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Processing Steps:
+## Processing Steps:
 1.Download the data source and put into a folder on your local drive. You'll have a  UCI HAR Dataset  folder.
 2.Put  run_analysis.R  in the parent folder of  UCI HAR Dataset , then set it as your working directory using  setwd()  function in RStudio.
 3.Run  source("run_analysis.R") , then it will generate a new file  tiny_data.txt  in your working directory.
