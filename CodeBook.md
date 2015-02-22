@@ -17,4 +17,4 @@ This code book includes information about the source data, the transformations p
 ### 10.Produced "merged_tidy_data.txt" with the combined data frame as the first expected output
 ### 11.Created another data set using the data.table library to easily group the tidy data by subject and activity
 ### 12.Then applied the mean and standard deviation calculations across the groups
-### 13.Produced "calculated_tidy_data.txt" as the second expected output
+### 13.Produced "uci-har-tidy-data.csvt" as the second expected output
